@@ -5,7 +5,7 @@
 <!--Updated 12/01/17 to include RDC ROOT and BP ROOT as standard-->
 
 <CAMPAIGN>
-<AD_URL>http://olb.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=320&amp;height=50&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
+<AD_URL>http://olbqq.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=320&amp;height=50&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
 <SCREENS>LOGIN, ACCOUNTS, TRANSFER, MESSAGES, GRAPH, RDC ROOT, BP ROOT</SCREENS>
 <HEIGHT>50</HEIGHT>
 <CLOSE_BUTTON>N</CLOSE_BUTTON>
@@ -17,7 +17,7 @@
 </CAMPAIGN>
 
 <CAMPAIGN>
-<AD_URL>http://olb.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=360&amp;height=55&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
+<AD_URL>http://olbqq.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=360&amp;height=55&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
 <SCREENS>LOGIN, ACCOUNTS, TRANSFER, MESSAGES, GRAPH, RDC ROOT, BP ROOT</SCREENS>
 <HEIGHT>55</HEIGHT>
 <CLOSE_BUTTON>N</CLOSE_BUTTON>
@@ -30,7 +30,7 @@
 </CAMPAIGN>
 
 <CAMPAIGN>
-<AD_URL>http://olb.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=375&amp;height=60&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
+<AD_URL>http://olbqq.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=375&amp;height=60&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
 <SCREENS>LOGIN, ACCOUNTS, TRANSFER, MESSAGES, GRAPH, RDC ROOT, BP ROOT</SCREENS>
 <HEIGHT>60</HEIGHT>
 <CLOSE_BUTTON>N</CLOSE_BUTTON>
@@ -43,7 +43,7 @@
 </CAMPAIGN>
 
 <CAMPAIGN>
-<AD_URL>http://olb.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=414&amp;height=65&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
+<AD_URL>http://olbqq.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=414&amp;height=65&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
 <SCREENS>LOGIN, ACCOUNTS, TRANSFER, MESSAGES, GRAPH, RDC ROOT, BP ROOT</SCREENS>
 <HEIGHT>65</HEIGHT>
 <CLOSE_BUTTON>N</CLOSE_BUTTON>
@@ -56,7 +56,7 @@
 </CAMPAIGN>
 
 <CAMPAIGN>
-<AD_URL>http://olb.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=533&amp;height=85&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
+<AD_URL>http://olbqq.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=533&amp;height=85&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
 <SCREENS>LOGIN, ACCOUNTS, TRANSFER, MESSAGES, GRAPH, RDC ROOT, BP ROOT</SCREENS>
 <HEIGHT>85</HEIGHT>
 <CLOSE_BUTTON>N</CLOSE_BUTTON>
@@ -69,7 +69,7 @@
 </CAMPAIGN>
 
 <CAMPAIGN>
-<AD_URL>http://olb.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=600&amp;height=95&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
+<AD_URL>http://olbqq.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=600&amp;height=95&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
 <SCREENS>LOGIN, ACCOUNTS, TRANSFER, MESSAGES, GRAPH, RDC ROOT, BP ROOT</SCREENS>
 <HEIGHT>95</HEIGHT>
 <CLOSE_BUTTON>N</CLOSE_BUTTON>
@@ -82,7 +82,7 @@
 </CAMPAIGN>
 
 <CAMPAIGN>
-<AD_URL>http://olb.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=768&amp;height=120&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
+<AD_URL>http://olbqq.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=768&amp;height=120&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
 <SCREENS>LOGIN, ACCOUNTS, TRANSFER, MESSAGES, GRAPH, RDC ROOT, BP ROOT</SCREENS>
 <HEIGHT>120</HEIGHT>
 <CLOSE_BUTTON>N</CLOSE_BUTTON>
@@ -95,7 +95,7 @@
 </CAMPAIGN>
 
 <CAMPAIGN>
-<AD_URL>http://olb.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=1024&amp;height=160&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
+<AD_URL>http://olbqq.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=1024&amp;height=160&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
 <SCREENS>LOGIN, ACCOUNTS, TRANSFER, MESSAGES, GRAPH, RDC ROOT, BP ROOT</SCREENS>
 <HEIGHT>160</HEIGHT>
 <CLOSE_BUTTON>N</CLOSE_BUTTON>
@@ -109,7 +109,7 @@
 <!--LANDSCAPE-->
 
 <CAMPAIGN>
-<AD_URL>http://olb.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=480&amp;height=60&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
+<AD_URL>http://olbqq.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=480&amp;height=60&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
 <SCREENS>LOGIN, ACCOUNTS, TRANSFER, MESSAGES, GRAPH, RDC ROOT, BP ROOT</SCREENS>
 <HEIGHT>60</HEIGHT>
 <CLOSE_BUTTON>N</CLOSE_BUTTON>
@@ -121,7 +121,7 @@
 </CAMPAIGN>
 
 <CAMPAIGN>
-<AD_URL>http://olb.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=533&amp;height=65&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
+<AD_URL>http://olbqq.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=533&amp;height=65&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
 <SCREENS>LOGIN, ACCOUNTS, TRANSFER, MESSAGES, GRAPH, RDC ROOT, BP ROOT</SCREENS>
 <HEIGHT>65</HEIGHT>
 <CLOSE_BUTTON>N</CLOSE_BUTTON>
@@ -134,7 +134,7 @@
 </CAMPAIGN>
 
 <CAMPAIGN>
-<AD_URL>http://olb.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=568&amp;height=70&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
+<AD_URL>http://olbqq.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=568&amp;height=70&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
 <SCREENS>LOGIN, ACCOUNTS, TRANSFER, MESSAGES, GRAPH, RDC ROOT, BP ROOT</SCREENS>
 <HEIGHT>70</HEIGHT>
 <CLOSE_BUTTON>N</CLOSE_BUTTON>
@@ -147,7 +147,7 @@
 </CAMPAIGN>
 
 <CAMPAIGN>
-<AD_URL>http://olb.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=600&amp;height=75&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
+<AD_URL>http://olbqq.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=600&amp;height=75&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
 <SCREENS>LOGIN, ACCOUNTS, TRANSFER, MESSAGES, GRAPH, RDC ROOT, BP ROOT</SCREENS>
 <HEIGHT>75</HEIGHT>
 <CLOSE_BUTTON>N</CLOSE_BUTTON>
@@ -160,7 +160,7 @@
 </CAMPAIGN>
 
 <CAMPAIGN>
-<AD_URL>http://olb.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=640&amp;height=80&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
+<AD_URL>http://olbqq.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=640&amp;height=80&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
 <SCREENS>LOGIN, ACCOUNTS, TRANSFER, MESSAGES, GRAPH, RDC ROOT, BP ROOT</SCREENS>
 <HEIGHT>80</HEIGHT>
 <CLOSE_BUTTON>N</CLOSE_BUTTON>
@@ -173,7 +173,7 @@
 </CAMPAIGN>
 
 <CAMPAIGN>
-<AD_URL>http://olb.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=667&amp;height=85&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
+<AD_URL>http://olbqq.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=667&amp;height=85&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
 <SCREENS>LOGIN, ACCOUNTS, TRANSFER, MESSAGES, GRAPH, RDC ROOT, BP ROOT</SCREENS>
 <HEIGHT>85</HEIGHT>
 <CLOSE_BUTTON>N</CLOSE_BUTTON>
@@ -186,7 +186,7 @@
 </CAMPAIGN>
 
 <CAMPAIGN>
-<AD_URL>http://olb.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=736&amp;height=90&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
+<AD_URL>http://olbqq.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=736&amp;height=90&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
 <SCREENS>LOGIN, ACCOUNTS, TRANSFER, MESSAGES, GRAPH, RDC ROOT, BP ROOT</SCREENS>
 <HEIGHT>90</HEIGHT>
 <CLOSE_BUTTON>N</CLOSE_BUTTON>
@@ -199,7 +199,7 @@
 </CAMPAIGN>
 
 <CAMPAIGN>
-<AD_URL>http://olb.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=853&amp;height=105&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
+<AD_URL>http://olbqq.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=853&amp;height=105&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
 <SCREENS>LOGIN, ACCOUNTS, TRANSFER, MESSAGES, GRAPH, RDC ROOT, BP ROOT</SCREENS>
 <HEIGHT>105</HEIGHT>
 <CLOSE_BUTTON>N</CLOSE_BUTTON>
@@ -212,7 +212,7 @@
 </CAMPAIGN>
 
 <CAMPAIGN>
-<AD_URL>http://olb.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=960&amp;height=120&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
+<AD_URL>http://olbqq.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=960&amp;height=120&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
 <SCREENS>LOGIN, ACCOUNTS, TRANSFER, MESSAGES, GRAPH, RDC ROOT, BP ROOT</SCREENS>
 <HEIGHT>120</HEIGHT>
 <CLOSE_BUTTON>N</CLOSE_BUTTON>
@@ -225,7 +225,7 @@
 </CAMPAIGN>
 
 <CAMPAIGN>
-<AD_URL>http://olb.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=1024&amp;height=130&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
+<AD_URL>http://olbqq.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=1024&amp;height=130&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
 <SCREENS>LOGIN, ACCOUNTS, TRANSFER, MESSAGES, GRAPH, RDC ROOT, BP ROOT</SCREENS>
 <HEIGHT>130</HEIGHT>
 <CLOSE_BUTTON>N</CLOSE_BUTTON>
@@ -238,7 +238,7 @@
 </CAMPAIGN>
 
 <CAMPAIGN>
-<AD_URL>http://olb.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=1336&amp;height=170&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
+<AD_URL>http://olbqq.deeptarget.com/CraneCU/trgtframes.ashx?long=${longitude}&amp;lat=${latitude}&amp;device=PHONE&amp;screen=${screenName}&amp;orientation=${orientation}&amp;platform=${platform}&amp;Method=M&amp;DTA=${memberNumber}&amp;channel=Mobile&amp;width=1336&amp;height=170&amp;adWidth=${adWidth}&amp;adHeight=${adHeight}</AD_URL>
 <SCREENS>LOGIN, ACCOUNTS, TRANSFER, MESSAGES, GRAPH, RDC ROOT, BP ROOT</SCREENS>
 <HEIGHT>170</HEIGHT>
 <CLOSE_BUTTON>N</CLOSE_BUTTON>
